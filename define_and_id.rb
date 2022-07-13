@@ -33,7 +33,7 @@
 # The end_with? method is being called on the string object "Hello World"
 # The argument "rld" is being passed to the end_with? method. The job of the
 # end_with? method is to check if the arguement "rld" is the ending of the
-# srting object "Hello World"
+# string object "Hello World"
 # The return value is true
 
 
